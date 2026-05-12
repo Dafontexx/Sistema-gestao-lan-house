@@ -25,3 +25,11 @@ A implementação foi realizada em MySQL, utilizando DDL para criação das tabe
 ## Objetivo
 
 Desenvolver uma solução de Banco de Dados organizada, funcional e normalizada para auxiliar no gerenciamento de uma LAN HOUSE GAMER.
+
+## Autores
+
+Projeto desenvolvido por:
+
+Gabriela Torres Guerra da Fonte
+Pedro Henrique Moreira Corrêa
+André César Santana de Oliveira
