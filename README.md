@@ -36,3 +36,8 @@ Projeto desenvolvido por:
 
 Instituição: UNIBRA
 Curso: Análise e Desenvolvimento de Sistemas (ADS)
+
+## Modelo Lógico
+
+![Modelo Lógico](imagens/modelo-logico.png.png)
+
