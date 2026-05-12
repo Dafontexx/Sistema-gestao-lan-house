@@ -37,6 +37,10 @@ Projeto desenvolvido por:
 Instituição: UNIBRA
 Curso: Análise e Desenvolvimento de Sistemas (ADS)
 
+## Modelo Conceitual
+
+![Modelo Conceitual](imagens/modelo-conceitual.png.png)
+
 ## Modelo Lógico
 
 ![Modelo Lógico](imagens/modelo-logico.png.png)
