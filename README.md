@@ -6,7 +6,7 @@ O sistema foi modelado utilizando os níveis conceitual, lógico e relacional, p
 
 A implementação foi realizada em MySQL, utilizando DDL para criação das tabelas, relacionamentos, chaves primárias e estrangeiras, além de comandos SQL para inserção e consulta de dados.
 
-## Tecnologias usadas
+ # Tecnologias utilizadas
 
 * MySQL
 * MySQL Workbench
