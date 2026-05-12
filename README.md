@@ -30,6 +30,7 @@ Desenvolver uma solução de Banco de Dados organizada, funcional e normalizada 
 
 Projeto desenvolvido por:
 
-Gabriela Torres Guerra da Fonte
-Pedro Henrique Moreira Corrêa
-André César Santana de Oliveira
+* Gabriela Torres Guerra da Fonte
+* Pedro Henrique Moreira Corrêa
+* André César Santana de Oliveira
+
