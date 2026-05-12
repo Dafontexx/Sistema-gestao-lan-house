@@ -34,3 +34,5 @@ Projeto desenvolvido por:
 * Pedro Henrique Moreira Corrêa
 * André César Santana de Oliveira
 
+Instituição: UNIBRA
+Curso: Análise e Desenvolvimento de Sistemas (ADS)
